@@ -177,4 +177,40 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>South Florida Premier Detailing</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root{
+      --dark:#05060a;
+      --blue:#1fd6ff;
+      --pink:#ff3fb4;
+      --white:#ffffff;
+      --soft:#111318;
+    }
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family:'Inter',sans-serif;
+      scroll-behavior:smooth;
+    }
+
+    body{
+      background:var(--dark);
+      color:var(--white);
+      line-height:1.6;
+    }
+
+    header{
+      position:sticky;
+      top:0;
+      background:#000;
 
